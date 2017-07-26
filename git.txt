@@ -4,6 +4,5 @@ reset to!!
 change again!!!!
 remote github!!
 change it again!!!!
-<<<<<<< HEAD
 change the master!
 add a dev to it and change it!!
